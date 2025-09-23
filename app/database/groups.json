@@ -1,0 +1,10 @@
+{
+  "grupo_amigos": {
+    "members": ["Pedro", "Maria"],
+    "inbox": []
+  },
+  "equipe_projeto": {
+    "members": ["Pedro", "João"],
+    "inbox": []
+  }
+}
